@@ -1,0 +1,218 @@
+{
+ "Achievements": {
+  "Boom Goes the Dynamite": {
+   "Complete": false
+  },
+  "Boxer": {
+   "Complete": false
+  },
+  "Dual Wielding": {
+   "Complete": false
+  },
+  "Flawless Victory": {
+   "Complete": false
+  },
+  "Free Loader": {
+   "Complete": true
+  },
+  "Gold Miner": {
+   "Complete": false
+  },
+  "Got the Moves": {
+   "Complete": false
+  },
+  "In Control": {
+   "Complete": false
+  },
+  "Last Stand God": {
+   "Complete": false
+  },
+  "Last Stand Master": {
+   "Complete": false
+  },
+  "Last Stand Wizard": {
+   "Complete": false
+  },
+  "Mine Games": {
+   "Complete": false
+  },
+  "Off You Go Then": {
+   "Complete": false
+  },
+  "Onslaught God": {
+   "Complete": false
+  },
+  "Onslaught Master": {
+   "Complete": false
+  },
+  "Onslaught Training Victory": {
+   "Complete": false
+  },
+  "Onslaught Wizard": {
+   "Complete": false
+  },
+  "Precision Bombing": {
+   "Complete": false
+  },
+  "Pro Boxer": {
+   "Complete": false
+  },
+  "Pro Football Shutout": {
+   "Complete": false
+  },
+  "Pro Football Victory": {
+   "Complete": false
+  },
+  "Pro Onslaught Victory": {
+   "Complete": false
+  },
+  "Pro Runaround Victory": {
+   "Complete": false
+  },
+  "Rookie Football Shutout": {
+   "Complete": false
+  },
+  "Rookie Football Victory": {
+   "Complete": false
+  },
+  "Rookie Onslaught Victory": {
+   "Complete": false
+  },
+  "Runaround God": {
+   "Complete": false
+  },
+  "Runaround Master": {
+   "Complete": false
+  },
+  "Runaround Wizard": {
+   "Complete": false
+  },
+  "Sharing is Caring": {
+   "Complete": false
+  },
+  "Stayin' Alive": {
+   "Complete": false
+  },
+  "Super Mega Punch": {
+   "Complete": false
+  },
+  "Super Punch": {
+   "Complete": false
+  },
+  "TNT Terror": {
+   "Complete": false
+  },
+  "Team Player": {
+   "Complete": false
+  },
+  "The Great Wall": {
+   "Complete": false
+  },
+  "The Wall": {
+   "Complete": false
+  },
+  "Uber Football Shutout": {
+   "Complete": false
+  },
+  "Uber Football Victory": {
+   "Complete": false
+  },
+  "Uber Onslaught Victory": {
+   "Complete": false
+  },
+  "Uber Runaround Victory": {
+   "Complete": false
+  }
+ },
+ "Auto Account State": "Server",
+ "Auto Balance Teams": true,
+ "Campaigns": {},
+ "Default Player Profiles": {
+  "Client Input Device #1": "__account__",
+  "Client Input Device #2": "'SW|Dep.",
+  "Client Input Device #3": "veve",
+  "Client Input Device #4": "\"\u26a1SoNIC\ud83c\udf00",
+  "Client Input Device #5": "Thunder",
+  "Client Input Device #6": "__account__",
+  "Client Input Device #7": "_random",
+  "Client Input Device #8": "`GP|Tokyo\u00b0",
+  "Client Input Device #9": "\"90,90,90,90"
+ },
+ "Fleet Zone Pings": {
+  "prod": {
+   "ap-east-1": 158.014437998645,
+   "ap-northeast-1": 217.89363102288917,
+   "ap-northeast-1-tpe-1a": 157.3497669887729,
+   "ap-northeast-2": 230.6942249997519,
+   "ap-south-1-del-1a": 222.63755497988313,
+   "eu-north-1-hel-1a": 40.78502274840139
+  }
+ },
+ "Free-for-All Playlist Randomize": true,
+ "Free-for-All Playlist Selection": "\u0444\u043e\u0440\u0442\u043e\u043d 99",
+ "Free-for-All Playlists": {
+  "\u0444\u043e\u0440\u0442\u043e\u043d 99": [
+   {
+    "settings": {
+     "Allow Negative Scores": false,
+     "Epic Mode": true,
+     "Kills to Win Per Player": 99,
+     "Respawn Times": 0.25,
+     "Time Limit": 0,
+     "map": "Courtyard"
+    },
+    "type": "bastd.game.deathmatch.DeathMatchGame"
+   }
+  ]
+ },
+ "Idle Exit Minutes": null,
+ "Local Account Name": "Server12660694",
+ "Player Profiles": {
+  "__account__": {
+   "character": "Spaz",
+   "color": [
+    0.5,
+    0.25,
+    1.0
+   ],
+   "highlight": [
+    0.5,
+    0.25,
+    1.0
+   ]
+  }
+ },
+ "Plugins": {
+  "baAllMaps17.Zk2059": {
+   "enabled": true
+  },
+  "character_chooser.CharacterChooserPlugin": {
+   "enabled": true
+  },
+  "glowing.GlowingProfiles": {
+   "enabled": true
+  },
+  "mod_data.ModData": {
+   "enabled": true
+  },
+  "old_bridge.OldBridgePlugin": {
+   "enabled": true
+  },
+  "punch_effects.punchEffects": {
+   "enabled": true
+  },
+  "soccer.SoccerPlugin": {
+   "enabled": true
+  },
+  "weather.weatherPlugin": {
+   "enabled": true
+  }
+ },
+ "Port": 43210,
+ "Show Tutorial": false,
+ "Signed In Last Session": false,
+ "Team Tournament Playlists": {},
+ "launchCount": 61,
+ "lc14173": 1,
+ "lc14292": 1
+}
